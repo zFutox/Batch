@@ -1,5 +1,5 @@
 @echo off 
-set pathtoGTAexe=C:\Program Files\Rockstar Games\Grand Theft Auto V\GTA5.exe 
+set pathtoGTAexe=""
 Rem without ""
 
 
