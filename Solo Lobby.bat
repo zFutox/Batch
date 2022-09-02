@@ -42,7 +42,7 @@ echo.
 pause
 
 :main
-
+del "%temp%\OEgetPrivileges.vbs" >nul 2>nul
 set "deb="
 set "choice="
 set "launcher="
